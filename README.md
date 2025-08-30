@@ -1,7 +1,7 @@
-<p align="center">
-   <h1 align="center">DOM Parser</h1>
-   <p align="center">Capture key content and interactive elements in a clean JSON format</p>
-</p>
+<div align="center">
+   <h1>DOM Parser</h1>
+   <p>Capture key content and interactive elements in a clean JSON format</p>
+</div>
 
 <br>
 
